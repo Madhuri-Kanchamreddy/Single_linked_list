@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1605200873 source:e:\madhuri\ads lab\single_linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"slist.h"
+	"slist.c"
+
+1605191593 e:\madhuri\ads lab\single_linked_list\slist.h
+	<stdint.h>
+
+1605201068 e:\madhuri\ads lab\single_linked_list\slist.c
+	<stdlib.h>
+	<assert.h>
+	"slist.h"
+
